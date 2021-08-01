@@ -3,7 +3,7 @@ import requests
 from avwxStatus import status
 
 url = 'https://avwx.rest/api/'
-api_key = 'Gu80grtTzxZ_05E_FNHY0NE3_Cv7QwnGhO0SASXUqDI'
+api_key = 'REPLACE YOU KEY'
 
 
 
