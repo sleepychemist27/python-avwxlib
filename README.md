@@ -8,7 +8,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 ```bash
 pip install avwx
 ```
-
+It is necessary to register your own free account at [avwx.rest](https://avwx.rest) and obtain your access token. Copy and paste this token as a string on line 6 of avwx.py.
 ## Usage
 
 ```python
