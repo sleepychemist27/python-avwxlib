@@ -3,11 +3,8 @@ python-avwxlib is a user-friendly python module for obtaining up-to-date METARs,
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+pip install is not currently possible, but I am in the process of packaging it and submitting it to PyPI. In the meantime, download both files to your working directory and use as directed. 
 
-```bash
-pip install avwx
-```
 It is necessary to register your own free account at [avwx.rest](https://avwx.rest) and obtain your access token. Copy and paste this token as a string on line 6 of avwx.py.
 ## Usage
 
